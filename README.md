@@ -2,6 +2,7 @@
 Green vs code theme is a green vs code theme .....
 
 <img src = "https://github.com/4rkal/GreenVsCodeTheme/blob/main/sreenshot.png"/>
+
 # Instalation
 1. Clone this repo using git
 
