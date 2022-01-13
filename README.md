@@ -7,7 +7,6 @@ Green vs code theme is a green vs code theme .....
 
 2. Install it to vs code by running:
 
-``` code --install-extension green-theme```
+``` code --install-extension green-0.0.1.vsix```
 
-# Important
-You can also check out the source in the source branch
+
